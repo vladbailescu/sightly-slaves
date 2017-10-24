@@ -1,0 +1,11 @@
+sudo: required
+language: java
+install: ./install-gitslave.sh
+before_script:
+  - git checkout master
+  - gits populate
+  - gits pull
+script: mvn clean verify
+cache:
+  directories:
+    - $HOME/.m2
