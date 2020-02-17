@@ -1,4 +1,5 @@
 "https://github.com/apache/sling-org-apache-sling-scripting-sightly.git" "engine"
+"sling-org-apache-sling-scripting-sightly-runtime" "runtime"
 "https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing.git" "testing"
 "https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler.git" "compiler"
 "https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler-java.git" "java-compiler"
