@@ -64,6 +64,7 @@
 
     <modules>
         <module>compiler</module>
+        <module>runtime</module>
         <module>java-compiler</module>
         <module>engine</module>
         <module>js-use-provider</module>
