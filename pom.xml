@@ -68,7 +68,6 @@
         <module>java-compiler</module>
         <module>engine</module>
         <module>js-use-provider</module>
-        <module>models-use-provider</module>
         <module>repl</module>
         <module>testing-content</module>
         <module>testing</module>
